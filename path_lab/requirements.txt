@@ -29,7 +29,7 @@ django-auditlog==0.4.5
 django-celery==3.3.1
 django-celery-beat==1.0.0
 django-celery-errorlog==0.1.1
-django-celery-results==1.1.2
+django-celery-results==2.4.0
 django-common-helpers==0.9.1
 django-crispy-forms==1.7.0
 django-cron==0.5.0
